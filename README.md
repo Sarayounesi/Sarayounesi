@@ -20,7 +20,7 @@
 
 <p align=center>
     <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=sarayounesi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false'/>
-    <img width='400' height='150' src='(https://github-readme-streak-stats.herokuapp.com/?user=sarayounesi&theme=blueberry&hide_border=false'/>
+    <img width='400' height='150' src='https://github-readme-streak-stats.herokuapp.com/?user=sarayounesi&theme=blueberry&hide_border=false'/>
 </p>
 <p align=center>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sarayounesi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact' />
