@@ -39,7 +39,7 @@
 ## <img width='30' height='30' src='social.png' alt='code--v1'/> SOCIAL
 <p align='center'>
   <a href='mailto:sarayounesi.iust@gmail.com' title='Gmail'>
-    <img width='32' height='32' src='https://img.icons8.com/glyph-neue/64/41b883/gmail.png' alt='gmail'/>
+    <img width='32' height='32' src='https://icons8.com/icon/48165/gmail-logo' alt='gmail'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
@@ -76,7 +76,7 @@
 
 ---
 ## <img width='30' height='30' src='view.png' alt='code--v1'/> VIWE
-[![](https://visitcount.itsvg.in/api?id=sarayounesi&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sarayounesi&icon=0&color=blueviolet&&style=for-the-badge)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
