@@ -39,22 +39,22 @@
 ## <img width='30' height='30' src='social.png' alt='code--v1'/> SOCIAL
 <p align='center'>
   <a href='mailto:sarayounesi.iust@gmail.com' title='Gmail'>
-    <img width='32' height='32' src='https://icons8.com/icon/48165/gmail-logo' alt='gmail'/>
+    <img width='32' height='32' src='gmail.png' alt='gmail'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.linkedin.com/in/sara-younesi-660a79220/' title='LinkedIn'>
-    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/linkedin.png' alt='linkedin'/>
+    <img width='32' height='32' src='li.png' alt='linkedin'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.instagram.com/saraunc/' title='Instagram'>
-    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/instagram-new--v1.png' alt='instagram'/>
+    <img width='32' height='32' src='ins.png' alt='instagram'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://t.me/saraunc'>
-    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/telegram.png' alt='telegram'/>
+    <img width='32' height='32' src='tel.png' alt='telegram'/>
   </a>
 </p>
 
