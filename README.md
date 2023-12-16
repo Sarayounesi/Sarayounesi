@@ -33,14 +33,16 @@
 
 
 
+
+
 ## <img width='30' height='30' src='stats.png' alt='code--v1'/> GIT STATS
 
 <p align=center>
-    <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=sarayounesi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false'/>
+    <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=sarayounesi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false'/>
     <img width='400' height='150' src='https://github-readme-streak-stats.herokuapp.com/?user=sarayounesi&theme=blueberry&hide_border=false'/>
 </p>
 <p align=center>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sarayounesi&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sarayounesi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact' />
 </p>
 
 ## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
