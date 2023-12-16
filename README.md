@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Sara</h1>
+<h1 align="center">Hi <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='28'>
+</h3>, I'm Sara</h1>
 <h3 align="center">A passionate in AI and Data Science</h3>
 <div align="center"> <img src="1.jpg"> </div>
 - 📫 How to reach me **Sarayounesi.iust@gmail.com**
