@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sara</h1>
 <h3 align="center">A passionate in AI and Data Science</h3>
-
+<div align="center"> <img src="mg.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?w=1380&t=st=1702710822~exp=1702711422~hmac=900d8d47bdb19f042ad018ee7a9f0319072bcf33b80a37b0b6112f1c830b29bb"> </div>
 - 📫 How to reach me **Sarayounesi.iust@gmail.com**
 <p align='center'>
 <h3 align="left">Connect with me:</h3>
