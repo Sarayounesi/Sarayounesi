@@ -76,7 +76,7 @@
 
 ---
 ## <img width='30' height='30' src='view.png' alt='code--v1'/> VIWE
-[![](https://visitcount.itsvg.in/api?id=sarayounesi&icon=0&color=blueviolet&&style=for-the-badge)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sarayounesi&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
