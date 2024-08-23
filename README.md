@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/ali-sedaghi/Dialogue-Character-Prediction">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=7fd4da&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/NaiveBayes-Text-Classifier">
