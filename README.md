@@ -77,7 +77,6 @@
 ### Computer Vision and Deep Learning
 <p align='center'>
     <a href='https://github.com/lelnazrezaeel/Predicting-COVID-19-From-Chest-X-Ray-Images'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Predicting-COVID-19-From-Chest-X-Ray-Images&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/lelnazrezaeel/Tile-Crack-Detection'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Tile-Crack-Detection&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
