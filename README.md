@@ -74,18 +74,7 @@
 
 ## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
 
-### Computer Vision and Deep Learning
-<p align='center'>
-    <a href='https://github.com/lelnazrezaeel/Tile-Crack-Detection'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Vision-IUST&theme=blueberry&hide_border=true&border_radius=10' />
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Computer-Vision-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Vision-IUST&theme=blue&hide_border=true&border_radius=10' />
-    </a>
-    <a href='https://github.com/lelnazrezaeel/Deep-Learning-IUST'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Deep-Learning-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-</p>
+
 ---
 ## <img width='30' height='30' src='view.png' alt='code--v1'/> VIWE
 [![](https://visitcount.itsvg.in/api?id=sarayounesi&icon=0&color=1)](https://visitcount.itsvg.in)
