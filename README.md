@@ -73,7 +73,23 @@
 </p>
 
 ## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
+## <img width='22' height='22' src='https://img.icons8.com/dotty/80/41b883/project-management.png' alt='project-management'/> Projects
 
+### Computer Vision and Deep Learning
+<p align='center'>
+    <a href='https://github.com/lelnazrezaeel/Predicting-COVID-19-From-Chest-X-Ray-Images'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Predicting-COVID-19-From-Chest-X-Ray-Images&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Tile-Crack-Detection'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Tile-Crack-Detection&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Computer-Vision-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Vision-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Deep-Learning-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Deep-Learning-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
 ---
 ## <img width='30' height='30' src='view.png' alt='code--v1'/> VIWE
 [![](https://visitcount.itsvg.in/api?id=sarayounesi&icon=0&color=1)](https://visitcount.itsvg.in)
