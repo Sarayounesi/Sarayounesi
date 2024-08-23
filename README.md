@@ -74,6 +74,25 @@
 
 ## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
 
+### Natural Language Processing
+
+<p align="center">
+  <a href="https://github.com/ali-sedaghi/Dialogue-Character-Prediction">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+  </a>
+
+  <a href="https://github.com/ali-sedaghi/NaiveBayes-Text-Classifier">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=NaiveBayes-Text-Classifier&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+  </a>
+
+  <a href="https://github.com/ali-sedaghi/POS-Tagger">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7f9eda&text_color=FDFDFD&hide_border=true">
+  </a>
+
+  <a href="https://github.com/ali-sedaghi/IUST-NLP-Assignments">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-NLP-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+  </a>
+</p>
 
 ---
 ## <img width='30' height='30' src='view.png' alt='code--v1'/> VIWE
