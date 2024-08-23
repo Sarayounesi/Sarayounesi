@@ -77,7 +77,7 @@
 ### Computer Vision and Deep Learning
 <p align='center'>
     <a href='https://github.com/lelnazrezaeel/Tile-Crack-Detection'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Tile-Crack-Detection&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Vision-IUST&theme=blueberry&hide_border=true&border_radius=10' />
     </a>
     <a href='https://github.com/lelnazrezaeel/Computer-Vision-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Vision-IUST&theme=blue&hide_border=true&border_radius=10' />
