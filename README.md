@@ -73,7 +73,6 @@
 </p>
 
 ## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
-## <img width='22' height='22' src='https://img.icons8.com/dotty/80/41b883/project-management.png' alt='project-management'/> Projects
 
 ### Computer Vision and Deep Learning
 <p align='center'>
