@@ -94,7 +94,7 @@
   </a>
 
 <a href="https://github.com/Sarayounesi/Labeling-And-Coloring-Graph">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Labeling-And-Coloring-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Labeling-And-Coloring-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
   
 </p>
