@@ -103,7 +103,7 @@
 ### Implemented Websites
 
 <p align="center">
-<a href="https://github.com/Kadoo-team/Frontend-Ripo">
+<a href="https://github.com/Sarayounesi/Kadoo-Frontend">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Kadoo-Frontend&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
