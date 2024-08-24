@@ -74,7 +74,7 @@
 
 ## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
 
-### <img width='30' height='30' src='new-moon.png' alt='code--v1'/> Dynamic Complex Network
+### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Dynamic Complex Network
 
 <p align="center">
 <a href="https://github.com/Sarayounesi/Compute-Some-Network-Metrics">
