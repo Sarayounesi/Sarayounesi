@@ -100,7 +100,19 @@
 </p>
 
 
-### Artificial Intelligence, Computational Intelligence
+### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Artificial Intelligence, Computational Intelligence
+<p align="center">
+<a href="https://github.com/Sarayounesi/Artificial-Intelligence-MiniProjects">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Artificial-Intelligence-MiniProjects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+
+<a href="https://github.com/Sarayounesi/Computational-Intelligence">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Computational-Intelligence&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+  
+</p>
+
+### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Deep learning, Computational Intelligence
 <p align="center">
 <a href="https://github.com/Sarayounesi/Artificial-Intelligence-MiniProjects">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Artificial-Intelligence-MiniProjects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
@@ -110,9 +122,18 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Computational-Intelligence&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
+  ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Algorithm, Data Structure
+<p align="center">
+<a href="https://github.com/Sarayounesi/Artificial-Intelligence-MiniProjects">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Artificial-Intelligence-MiniProjects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
 
+<a href="https://github.com/Sarayounesi/Computational-Intelligence">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Computational-Intelligence&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
   
 </p>
+
 
 ---
 ## <img width='30' height='30' src='view.png' alt='code--v1'/> VIWE
