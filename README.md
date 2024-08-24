@@ -74,24 +74,29 @@
 
 ## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
 
-### Natural Language Processing
+### Dynamic Complex Network
 
 <p align="center">
-  <a href="https://github.com/ali-sedaghi/Dialogue-Character-Prediction">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=Dialogue-Character-Prediction&theme=dark&title_color=FA8B00&icon_color=7fd4da&text_color=FDFDFD&hide_border=true">
-  </a>
-
-  <a href="https://github.com/ali-sedaghi/NaiveBayes-Text-Classifier">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=NaiveBayes-Text-Classifier&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
-  </a>
-
-  <a href="https://github.com/ali-sedaghi/POS-Tagger">
+<a href="https://github.com/Sarayounesi/Compute-Some-Network-Metrics">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
-  <a href="https://github.com/ali-sedaghi/IUST-NLP-Assignments">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=IUST-NLP-Assignments&theme=dark&title_color=FA8B00&icon_color=FA8B00&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Generate-Artificial-Graphs-and-Fit-Models">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
+
+<a href="https://github.com/Sarayounesi/Communities-And-Modularity-In-Graph">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+
+  <a href="https://github.com/Sarayounesi/Simulate-Epidemic-Models">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+
+<a href="https://github.com/Sarayounesi/Labeling-And-Coloring-Graph">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+  
 </p>
 
 ---
