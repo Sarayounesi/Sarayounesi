@@ -86,7 +86,7 @@
   </a>
 
   <a href="https://github.com/ali-sedaghi/POS-Tagger">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7f9eda&text_color=FDFDFD&hide_border=true">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ali-sedaghi&repo=POS-Tagger&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/ali-sedaghi/IUST-NLP-Assignments">
