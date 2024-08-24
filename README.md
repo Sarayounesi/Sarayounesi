@@ -87,7 +87,7 @@
   </a>
 
 
-### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Dynamic Complex Network, Advanced Graph Algorithms
+### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Dynamic Complex Network
 
 <p align="center">
 <a href="https://github.com/Sarayounesi/Compute-Some-Network-Metrics">
@@ -126,30 +126,20 @@
 </p>
 
 
-  ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Algorithm, Data Structure, Advanced Programming, Programming
-<p align="center">
-<a href="https://github.com/Sarayounesi/Artificial-Intelligence-MiniProjects">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Artificial-Intelligence-MiniProjects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
-  </a>
-
-<a href="https://github.com/Sarayounesi/Computational-Intelligence">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Computational-Intelligence&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
-  </a>
-
-  
-</p>
 
 
   ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Network, Security, Oprating System
 <p align="center">
-<a href="https://github.com/Sarayounesi/Artificial-Intelligence-MiniProjects">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Artificial-Intelligence-MiniProjects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Oprating-System-Assignment-IUST">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Oprating-System-Assignment-IUST&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
-<a href="https://github.com/Sarayounesi/Computational-Intelligence">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Computational-Intelligence&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/WireShark-PacketTracer">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=WireShark-PacketTracer&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
-
+<a href="https://github.com/Sarayounesi/Security-MiniProject_IUST">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Security-MiniProject_IUST&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
   
 </p>
 
