@@ -100,21 +100,27 @@
 </p>
 
 
-### Implemented Websites
-
+### Artificial Intelligence, Computational Intelligence
 <p align="center">
-<a href="https://github.com/Sarayounesi/Kadoo-Frontend">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Kadoo-Frontend&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Compute-Some-Network-Metrics">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Compute-Some-Network-Metrics&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
-<a href="https://github.com/Saku-SE">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Saku Website&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Generate-Artificial-Graphs-and-Fit-Models">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Generate-Artificial-Graphs-and-Fit-Models&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
-<a href="https://github.com/G-force-Software-Engineering-gp/frontend">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=frontend&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Communities-And-Modularity-In-Graph">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Communities-And-Modularity-In-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
+  <a href="https://github.com/Sarayounesi/Simulate-Epidemic-Models">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Simulate-Epidemic-Models&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+
+<a href="https://github.com/Sarayounesi/Labeling-And-Coloring-Graph">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Labeling-And-Coloring-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
   
 </p>
 
