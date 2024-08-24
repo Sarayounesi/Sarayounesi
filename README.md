@@ -72,7 +72,7 @@
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sarayounesi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact' />
 </p>
 
-## <img width='30' height='30' src='project.png' alt='code--v1'/> PROJECTS
+## <img width='40' height='40' src='project.png' alt='code--v1'/> PROJECTS
 
 ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Dynamic Complex Network
 
