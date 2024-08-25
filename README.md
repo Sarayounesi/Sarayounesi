@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Sara <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='28'>
+<h1 align="center">Hi, I'm Sara <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='18'>
 <h3 align="center">A passionate in AI and Data Science</h3>
 <div align="center"> <img src="1.jpg"> </div>
 <p align='center'>
 </p>
 
-## <img width='10' height='10' src='tools.png' alt='code--v1'/> LANGUAGES & TOOLS
+## <img width='30' height='30' src='tools.png' alt='code--v1'/> LANGUAGES & TOOLS
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     &#8287;&#8287;&#8287;&#8287;&#8287;
