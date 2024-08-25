@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sara <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='18'>
+<h1 align="center">Hi, I'm Sara <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='40'>
 <h3 align="center">A passionate in AI and Data Science</h3>
 <div align="center"> <img src="1.jpg"> </div>
 <p align='center'>
@@ -33,9 +33,7 @@
        &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
        &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-    <a href="https://www.adobe.com/products/git.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="git" width="40" height="40"/> </a> </p>
-
+    
 
 ## <img width='30' height='30' src='social.png' alt='code--v1'/> SOCIAL
 <p align='center'>
