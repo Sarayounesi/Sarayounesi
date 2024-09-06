@@ -78,8 +78,8 @@
     <a href='https://github.com/Sarayounesi/Agent-Game-Pong'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Agent-Game-Pong&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true'>
     </a>
-    <a href='https://github.com/Sarayounesi/Sentiment-Analysis'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/Sarayounesi/Deep-Learning-Projects'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Deep-Learning-Projects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true'>
     </a>
     <a href='https://github.com/Sarayounesi/Sentiment-Analysis-NLP'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis-NLP&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true'>
