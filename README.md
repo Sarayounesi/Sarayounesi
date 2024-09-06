@@ -132,6 +132,16 @@
 </p>
 
 
+### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Software Products
+<p align="center">
+<a href="https://github.com/Sarayounesi/Oprating-System-Assignment-IUST">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Oprating-System-Assignment-IUST&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+
+  
+</p>
+
+
 
 
   ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Network, Security, Oprating System, Hardware
@@ -157,7 +167,9 @@
   <a href="https://github.com/Sarayounesi/Fundamental-Programming">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Fundamental-Programming&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
-
+  <a href="https://github.com/Sarayounesi/Library-Management-System">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Library-Management-System&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
 
   
 </p>
