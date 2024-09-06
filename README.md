@@ -106,8 +106,8 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Simulate-Epidemic-Models-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
-<a href="https://github.com/Sarayounesi/Labeling-And-Coloring-Graph">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Labeling-And-Coloring-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Labeling-Coloring-Graph">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Labeling-Coloring-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
   
 </p>
