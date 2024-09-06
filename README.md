@@ -90,12 +90,13 @@
 ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Dynamic Complex Network
 
 <p align="center">
-<a href="https://github.com/Sarayounesi/Compute-Some-Network-Metrics">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Compute-Some-Network-Metrics&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Compute-Network-Metrics">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Compute-Network-Metrics
+&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
-<a href="https://github.com/Sarayounesi/Generate-Artificial-Graphs-and-Fit-Models">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Generate-Artificial-Graphs-and-Fit-Models&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/https://github.com/Sarayounesi/Generate-Artificial-Graphs-Fit-Models">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Generate-Artificial-Graphs-Fit-Models&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
 <a href="https://github.com/Sarayounesi/Communities-And-Modularity-In-Graph">
