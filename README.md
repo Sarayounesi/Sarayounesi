@@ -74,8 +74,8 @@
 ## <img width='40' height='40' src='project.png' alt='code--v1'/> PROJECTS
 ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Deep learning, Reinforcement Learning , Natural Language Processing
 <p align="center">
-<a href="https://github.com/Sarayounesi/Sentiment-Analysis">
-<img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href='https://github.com/Sarayounesi/Sentiment-Analysis'>
+<img width="278" src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
 </a>
 
 <a href="https://github.com/Sarayounesi/Deep-Learning-Projects">
