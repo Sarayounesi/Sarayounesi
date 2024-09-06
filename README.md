@@ -99,7 +99,7 @@
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
     <a href='https://github.com/Sarayounesi/Sentiment-Analysis-NLP'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis-NLP&theme=vuedark&hide_border=true&border_radius=10&hide_border=true'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis-NLP&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
 <!--     <a href='https://github.com/lelnazrezaeel/Deep-Learning-IUST'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Deep-Learning-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
