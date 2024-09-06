@@ -73,10 +73,10 @@
 
 ## <img width='40' height='40' src='project.png' alt='code--v1'/> PROJECTS
 ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Deep learning, Reinforcement Learning , Natural Language Processing
-<p align="center">
+
 <!-- <a href='https://github.com/Sarayounesi/Sentiment-Analysis'>
    <img width="278" src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
-  </a> -->
+  </a>
 
        
 <a href="https://github.com/Sarayounesi/Deep-Learning-Projects">
@@ -89,7 +89,22 @@
 
 <a href='https://github.com/Sarayounesi/Sentiment-Analysis'>
         <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Sentiment-Analysis&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a> -->
+
+<p align='center'>
+    <a href='https://github.com/Sarayounesi/Agent-Game-Pong'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Agent-Game-Pong&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
+    <a href='https://github.com/lelnazrezaeel/Tile-Crack-Detection'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Tile-Crack-Detection&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Computer-Vision-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Computer-Vision-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+    <a href='https://github.com/lelnazrezaeel/Deep-Learning-IUST'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=lelnazrezaeel&repo=Deep-Learning-IUST&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    </a>
+</p>
 
 
 ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Dynamic Complex Network
