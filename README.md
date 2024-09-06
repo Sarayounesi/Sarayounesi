@@ -98,8 +98,8 @@
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Generate-Artificial-Graphs-Fit-Models&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
-<a href="https://github.com/Sarayounesi/Communities-And-Modularity-In-Graph">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Communities-And-Modularity-In-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Communities-Modularity-Graph">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Communities-Modularity-Graph&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
   <a href="https://github.com/Sarayounesi/Simulate-Epidemic-Models">
