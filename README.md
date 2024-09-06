@@ -122,7 +122,13 @@
 <a href="https://github.com/Sarayounesi/Computational-Intelligence-Projects">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Computational-Intelligence-Projects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
-  
+  <a href="https://github.com/Sarayounesi/Q-Learning">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Q-Learning&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
+
+<a href="https://github.com/Sarayounesi/Bayes-Naive-Classifier">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Bayes-Naive-Classifier&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+  </a>
 </p>
 
 
