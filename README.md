@@ -115,8 +115,8 @@
 
 ### <img width='30' height='30' src='icons8-hand-right-48.png' alt='code--v1'/> Artificial Intelligence, Computational Intelligence
 <p align="center">
-<a href="https://github.com/Sarayounesi/Artificial-Intelligence-MiniProjects">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Artificial-Intelligence-MiniProjects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
+<a href="https://github.com/Sarayounesi/Artificial-Intelligence-Projects">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sarayounesi&repo=Artificial-Intelligence-Projects&theme=dark&title_color=7f9eda&icon_color=7fdac9&text_color=FDFDFD&hide_border=true">
   </a>
 
 <a href="https://github.com/Sarayounesi/Computational-Intelligence-Projects">
