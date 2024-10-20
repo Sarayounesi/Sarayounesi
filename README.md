@@ -52,9 +52,7 @@
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-  <a href='https://t.me/saraunc'>
-    <img width='32' height='32' src='tel.png' alt='telegram'/>
-  </a>
+
 </p>
 
 
