@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Sara <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='40'>
+<h1 align="center">Hi, I'm Sara 
+<!--     <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGExNzhmMGNkOWZlZWZjN2ZlNWM2NjUxMmI4NGM0ZTdmMDJhZDgxOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/NFGhfDRVAml9khfvzP/giphy.gif' width='40'> -->
 <h3 align="center">A passionate in AI and Data Science</h3>
 <div align="center"> <img src="1.jpg"  width='700'> </div>
 <p align='center'>
@@ -36,10 +37,10 @@
     
 
 ## <img width='30' height='30' src='social.png' alt='code--v1'/> SOCIAL
-//<p align='center'>
-  //<a href='mailto:sarayounesi.iust@gmail.com' title='Gmail'>
-   // <img width='32' height='32' src='gmail.png' alt='gmail'/>
- // </a>
+<p align='center'>
+  <a href='mailto:sarayounesi.iust@gmail.com' title='Gmail'>
+    <img width='32' height='32' src='gmail.png' alt='gmail'/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.linkedin.com/in/sara-younesi-660a79220/' title='LinkedIn'>
