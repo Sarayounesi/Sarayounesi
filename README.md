@@ -36,10 +36,10 @@
     
 
 ## <img width='30' height='30' src='social.png' alt='code--v1'/> SOCIAL
-<p align='center'>
-  <a href='mailto:sarayounesi.iust@gmail.com' title='Gmail'>
-    <img width='32' height='32' src='gmail.png' alt='gmail'/>
-  </a>
+//<p align='center'>
+  //<a href='mailto:sarayounesi.iust@gmail.com' title='Gmail'>
+   // <img width='32' height='32' src='gmail.png' alt='gmail'/>
+ // </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   <a href='https://www.linkedin.com/in/sara-younesi-660a79220/' title='LinkedIn'>
